@@ -136,7 +136,7 @@ else:
 }
 ```
 
-#### Detailed UML Sequence Diagram
+## Detailed UML Sequence Diagram
 ##### Participants
 - **Client Application:** Any application (or test program) making the HTTP request.
 - **Movie Data Fetcher Microservice:** The Flask-based REST API.
