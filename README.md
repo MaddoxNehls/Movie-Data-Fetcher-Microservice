@@ -164,4 +164,4 @@ else:
     **Details:** The response contains the array of movie objects or an error message (if no movies are found).
 
 #### Visual Respresentation
-![UML Sequence Diagram](UML_Diagram_Photo\UML_Diagram.png)
+![UML Sequence Diagram](UML_Diagram_Photo/UML_Diagram.png)
